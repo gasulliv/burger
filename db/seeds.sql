@@ -1,0 +1,2 @@
+INSERT INTO burger (burger_name, devoured, date) VALUES ("Veggie Burger", true, "2017-05-18 17:18:55");
+INSERT INTO burger (burger_name, devoured, date) VALUES ("Pyjack Burger", true, "2017-05-18 17:18:55");
